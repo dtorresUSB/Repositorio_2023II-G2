@@ -1,4 +1,4 @@
-#Funcion sin retorno
+#Funcion con parametros pero sin retorno
 def matrix(nombre):
     print('Estas en la matrix', nombre )
 

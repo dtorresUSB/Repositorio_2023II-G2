@@ -1,4 +1,4 @@
-#función con retorno
+#función con parametros y retorno
 
 def suma(num1,num2):
     x=num1+num2
