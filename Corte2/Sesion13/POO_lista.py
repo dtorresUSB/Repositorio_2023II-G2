@@ -7,7 +7,7 @@ class Pokemon():
         self.codigo=None
     
     def ataquePokemon(self):
-        return 'estoy atacando'
+        return self.nombre + ' estoy atacando'
 
 
 def main():
